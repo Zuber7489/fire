@@ -10,7 +10,7 @@ const Navbar = () => {
         <nav class="navbar navbar-expand-lg navbar-light ">
           <div class="container">
             <a class="navbar-brand" href="#">
-              ThapaPay
+              Zuber Pay
             </a>
             <button
               class="navbar-toggler"
