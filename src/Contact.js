@@ -77,7 +77,7 @@ const Contact = () => {
                   </p>
                   <figure>
                     <img
-                      src="./images/hero1.jpg"
+                      src="https://www.clearswift.com/sites/default/files/2021-09/hs-contact-us-figure.png"
                       alt="contatUsImg"
                       className="img-fluid"
                     />
